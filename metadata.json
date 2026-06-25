@@ -1,0 +1,10 @@
+{
+  "name": "Remix: JARVIS Assistant",
+  "description": "Interactive JARVIS AI Operating System Assistant UI with application control, system monitoring, file explorer, workspace automation, calendar management, and Gemini-powered smart voice/chat interface with holographic image generation capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
